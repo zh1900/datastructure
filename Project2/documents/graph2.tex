@@ -1,0 +1,22 @@
+\begin{tikzpicture}
+
+\def \n {9}
+\def \radius {3cm}
+
+\tikzset{vertex/.style = {align=center, text centered, draw, circle, text width=1em}}
+
+\foreach \i in {1,...,\n}
+{
+	\node[vertex] (\num) {\num};
+}
+
+\foreach \i in {2,...,\n}
+{
+	\pgfmathtruncatemacro{\k}{\i + 1}
+	\foreach \j in {\k,...,\n}
+	{			
+		\draw[-] (\i) edge (\j);
+	}
+}
+
+\end{tikzpicture}

@@ -1,0 +1,909 @@
+algo_1 : 
+n = 1000,
+iterations = 1000000, ticks = 4698036, total_time = 4.698036, duration = 4.698036e-06
+
+n = 2000,
+iterations = 500000, ticks = 4765149, total_time = 4.765149, duration = 9.530298e-06
+
+n = 3000,
+iterations = 333333, ticks = 4741355, total_time = 4.741355, duration = 1.422408e-05
+
+n = 4000,
+iterations = 250000, ticks = 4723149, total_time = 4.723149, duration = 1.889260e-05
+
+n = 5000,
+iterations = 200000, ticks = 4718263, total_time = 4.718263, duration = 2.359131e-05
+
+n = 6000,
+iterations = 166666, ticks = 4688278, total_time = 4.688278, duration = 2.812978e-05
+
+n = 7000,
+iterations = 142857, ticks = 4694834, total_time = 4.694834, duration = 3.286387e-05
+
+n = 8000,
+iterations = 125000, ticks = 4695025, total_time = 4.695025, duration = 3.756020e-05
+
+n = 9000,
+iterations = 111111, ticks = 4689465, total_time = 4.689465, duration = 4.220523e-05
+
+n = 10000,
+iterations = 100000, ticks = 4767915, total_time = 4.767915, duration = 4.767915e-05
+
+n = 11000,
+iterations = 90909, ticks = 4682197, total_time = 4.682197, duration = 5.150422e-05
+
+n = 12000,
+iterations = 83333, ticks = 4692926, total_time = 4.692926, duration = 5.631534e-05
+
+n = 13000,
+iterations = 76923, ticks = 4730425, total_time = 4.730425, duration = 6.149559e-05
+
+n = 14000,
+iterations = 71428, ticks = 4671863, total_time = 4.671863, duration = 6.540661e-05
+
+n = 15000,
+iterations = 66666, ticks = 4686457, total_time = 4.686457, duration = 7.029756e-05
+
+n = 16000,
+iterations = 62500, ticks = 4790968, total_time = 4.790968, duration = 7.665549e-05
+
+n = 17000,
+iterations = 58823, ticks = 4693418, total_time = 4.693418, duration = 7.978882e-05
+
+n = 18000,
+iterations = 55555, ticks = 4729653, total_time = 4.729653, duration = 8.513461e-05
+
+n = 19000,
+iterations = 52631, ticks = 4690976, total_time = 4.690976, duration = 8.912952e-05
+
+n = 20000,
+iterations = 50000, ticks = 4698640, total_time = 4.698640, duration = 9.397280e-05
+
+n = 21000,
+iterations = 47619, ticks = 4688892, total_time = 4.688892, duration = 9.846683e-05
+
+n = 22000,
+iterations = 45454, ticks = 4692330, total_time = 4.692330, duration = 1.032325e-04
+
+n = 23000,
+iterations = 43478, ticks = 4700753, total_time = 4.700753, duration = 1.081180e-04
+
+n = 24000,
+iterations = 41666, ticks = 4686600, total_time = 4.686600, duration = 1.124802e-04
+
+n = 25000,
+iterations = 40000, ticks = 4685398, total_time = 4.685398, duration = 1.171350e-04
+
+n = 26000,
+iterations = 38461, ticks = 4680103, total_time = 4.680103, duration = 1.216844e-04
+
+n = 27000,
+iterations = 37037, ticks = 4689310, total_time = 4.689310, duration = 1.266115e-04
+
+n = 28000,
+iterations = 35714, ticks = 4701425, total_time = 4.701425, duration = 1.316410e-04
+
+n = 29000,
+iterations = 34482, ticks = 4691657, total_time = 4.691657, duration = 1.360610e-04
+
+n = 30000,
+iterations = 33333, ticks = 4686628, total_time = 4.686628, duration = 1.406002e-04
+
+n = 31000,
+iterations = 32258, ticks = 4715633, total_time = 4.715633, duration = 1.461849e-04
+
+n = 32000,
+iterations = 31250, ticks = 4688872, total_time = 4.688872, duration = 1.500439e-04
+
+n = 33000,
+iterations = 30303, ticks = 4694805, total_time = 4.694805, duration = 1.549287e-04
+
+n = 34000,
+iterations = 29411, ticks = 4692120, total_time = 4.692120, duration = 1.595362e-04
+
+n = 35000,
+iterations = 28571, ticks = 4700667, total_time = 4.700667, duration = 1.645258e-04
+
+n = 36000,
+iterations = 27777, ticks = 4696084, total_time = 4.696084, duration = 1.690638e-04
+
+n = 37000,
+iterations = 27027, ticks = 4692053, total_time = 4.692053, duration = 1.736061e-04
+
+n = 38000,
+iterations = 26315, ticks = 4684484, total_time = 4.684484, duration = 1.780157e-04
+
+n = 39000,
+iterations = 25641, ticks = 4693208, total_time = 4.693208, duration = 1.830353e-04
+
+n = 40000,
+iterations = 25000, ticks = 4702685, total_time = 4.702685, duration = 1.881074e-04
+
+n = 41000,
+iterations = 24390, ticks = 4723148, total_time = 4.723148, duration = 1.936510e-04
+
+n = 42000,
+iterations = 23809, ticks = 4689120, total_time = 4.689120, duration = 1.969474e-04
+
+n = 43000,
+iterations = 23255, ticks = 4692993, total_time = 4.692993, duration = 2.018058e-04
+
+n = 44000,
+iterations = 22727, ticks = 4694653, total_time = 4.694653, duration = 2.065672e-04
+
+n = 45000,
+iterations = 22222, ticks = 4709968, total_time = 4.709968, duration = 2.119507e-04
+
+n = 46000,
+iterations = 21739, ticks = 4684834, total_time = 4.684834, duration = 2.155037e-04
+
+n = 47000,
+iterations = 21276, ticks = 4700684, total_time = 4.700684, duration = 2.209383e-04
+
+n = 48000,
+iterations = 20833, ticks = 4721003, total_time = 4.721003, duration = 2.266118e-04
+
+n = 49000,
+iterations = 20408, ticks = 4701251, total_time = 4.701251, duration = 2.303631e-04
+
+n = 50000,
+iterations = 20000, ticks = 4713744, total_time = 4.713744, duration = 2.356872e-04
+
+n = 51000,
+iterations = 19607, ticks = 4711810, total_time = 4.711810, duration = 2.403126e-04
+
+n = 52000,
+iterations = 19230, ticks = 4692563, total_time = 4.692563, duration = 2.440230e-04
+
+n = 53000,
+iterations = 18867, ticks = 4692101, total_time = 4.692101, duration = 2.486935e-04
+
+n = 54000,
+iterations = 18518, ticks = 4682979, total_time = 4.682979, duration = 2.528879e-04
+
+n = 55000,
+iterations = 18181, ticks = 4703168, total_time = 4.703168, duration = 2.586859e-04
+
+n = 56000,
+iterations = 17857, ticks = 4704086, total_time = 4.704086, duration = 2.634309e-04
+
+n = 57000,
+iterations = 17543, ticks = 4701639, total_time = 4.701639, duration = 2.680066e-04
+
+n = 58000,
+iterations = 17241, ticks = 4715776, total_time = 4.715776, duration = 2.735210e-04
+
+n = 59000,
+iterations = 16949, ticks = 4704586, total_time = 4.704586, duration = 2.775731e-04
+
+n = 60000,
+iterations = 16666, ticks = 4701795, total_time = 4.701795, duration = 2.821190e-04
+
+n = 61000,
+iterations = 16393, ticks = 4736345, total_time = 4.736345, duration = 2.889248e-04
+
+n = 62000,
+iterations = 16129, ticks = 4701429, total_time = 4.701429, duration = 2.914892e-04
+
+n = 63000,
+iterations = 15873, ticks = 4690613, total_time = 4.690613, duration = 2.955089e-04
+
+n = 64000,
+iterations = 15625, ticks = 4690434, total_time = 4.690434, duration = 3.001878e-04
+
+n = 65000,
+iterations = 15384, ticks = 4693579, total_time = 4.693579, duration = 3.050948e-04
+
+n = 66000,
+iterations = 15151, ticks = 4689425, total_time = 4.689425, duration = 3.095126e-04
+
+n = 67000,
+iterations = 14925, ticks = 4715866, total_time = 4.715866, duration = 3.159709e-04
+
+n = 68000,
+iterations = 14705, ticks = 4690274, total_time = 4.690274, duration = 3.189578e-04
+
+n = 69000,
+iterations = 14492, ticks = 4692696, total_time = 4.692696, duration = 3.238129e-04
+
+n = 70000,
+iterations = 14285, ticks = 4687375, total_time = 4.687375, duration = 3.281327e-04
+
+n = 71000,
+iterations = 14084, ticks = 4752023, total_time = 4.752023, duration = 3.374058e-04
+
+n = 72000,
+iterations = 13888, ticks = 4741040, total_time = 4.741040, duration = 3.413767e-04
+
+n = 73000,
+iterations = 13698, ticks = 4708294, total_time = 4.708294, duration = 3.437213e-04
+
+n = 74000,
+iterations = 13513, ticks = 4713119, total_time = 4.713119, duration = 3.487841e-04
+
+n = 75000,
+iterations = 13333, ticks = 4749716, total_time = 4.749716, duration = 3.562376e-04
+
+n = 76000,
+iterations = 13157, ticks = 4696864, total_time = 4.696864, duration = 3.569859e-04
+
+n = 77000,
+iterations = 12987, ticks = 4693913, total_time = 4.693913, duration = 3.614317e-04
+
+n = 78000,
+iterations = 12820, ticks = 4844755, total_time = 4.844755, duration = 3.779060e-04
+
+n = 79000,
+iterations = 12658, ticks = 4848138, total_time = 4.848138, duration = 3.830098e-04
+
+n = 80000,
+iterations = 12500, ticks = 4747763, total_time = 4.747763, duration = 3.798210e-04
+
+n = 81000,
+iterations = 12345, ticks = 4813116, total_time = 4.813116, duration = 3.898838e-04
+
+n = 82000,
+iterations = 12195, ticks = 4777041, total_time = 4.777041, duration = 3.917213e-04
+
+n = 83000,
+iterations = 12048, ticks = 4807416, total_time = 4.807416, duration = 3.990219e-04
+
+n = 84000,
+iterations = 11904, ticks = 4705938, total_time = 4.705938, duration = 3.953241e-04
+
+n = 85000,
+iterations = 11764, ticks = 4666783, total_time = 4.666783, duration = 3.967004e-04
+
+n = 86000,
+iterations = 11627, ticks = 4715257, total_time = 4.715257, duration = 4.055437e-04
+
+n = 87000,
+iterations = 11494, ticks = 4692785, total_time = 4.692785, duration = 4.082813e-04
+
+n = 88000,
+iterations = 11363, ticks = 4677986, total_time = 4.677986, duration = 4.116858e-04
+
+n = 89000,
+iterations = 11235, ticks = 4659228, total_time = 4.659228, duration = 4.147065e-04
+
+n = 90000,
+iterations = 11111, ticks = 4738518, total_time = 4.738518, duration = 4.264709e-04
+
+n = 91000,
+iterations = 10989, ticks = 4737328, total_time = 4.737328, duration = 4.310973e-04
+
+n = 92000,
+iterations = 10869, ticks = 4659301, total_time = 4.659301, duration = 4.286780e-04
+
+n = 93000,
+iterations = 10752, ticks = 4656961, total_time = 4.656961, duration = 4.331251e-04
+
+n = 94000,
+iterations = 10638, ticks = 4695105, total_time = 4.695105, duration = 4.413522e-04
+
+n = 95000,
+iterations = 10526, ticks = 4699770, total_time = 4.699770, duration = 4.464915e-04
+
+n = 96000,
+iterations = 10416, ticks = 4696163, total_time = 4.696163, duration = 4.508605e-04
+
+n = 97000,
+iterations = 10309, ticks = 4695535, total_time = 4.695535, duration = 4.554792e-04
+
+n = 98000,
+iterations = 10204, ticks = 4695842, total_time = 4.695842, duration = 4.601962e-04
+
+n = 99000,
+iterations = 10101, ticks = 4710772, total_time = 4.710772, duration = 4.663669e-04
+
+n = 100000,
+iterations = 10000, ticks = 4690795, total_time = 4.690795, duration = 4.690795e-04
+
+
+
+algo_2_recursive : 
+n = 1000,
+iterations = 10000000, ticks = 1465827, total_time = 1.465827, duration = 1.465827e-07
+
+n = 2000,
+iterations = 10000000, ticks = 1485141, total_time = 1.485141, duration = 1.485141e-07
+
+n = 3000,
+iterations = 10000000, ticks = 1543773, total_time = 1.543773, duration = 1.543773e-07
+
+n = 4000,
+iterations = 10000000, ticks = 1685661, total_time = 1.685661, duration = 1.685661e-07
+
+n = 5000,
+iterations = 10000000, ticks = 1804435, total_time = 1.804435, duration = 1.804435e-07
+
+n = 6000,
+iterations = 10000000, ticks = 1606752, total_time = 1.606752, duration = 1.606752e-07
+
+n = 7000,
+iterations = 10000000, ticks = 1819195, total_time = 1.819195, duration = 1.819195e-07
+
+n = 8000,
+iterations = 10000000, ticks = 1704842, total_time = 1.704842, duration = 1.704842e-07
+
+n = 9000,
+iterations = 10000000, ticks = 2062888, total_time = 2.062888, duration = 2.062888e-07
+
+n = 10000,
+iterations = 10000000, ticks = 1900754, total_time = 1.900754, duration = 1.900754e-07
+
+n = 11000,
+iterations = 10000000, ticks = 1948015, total_time = 1.948015, duration = 1.948015e-07
+
+n = 12000,
+iterations = 10000000, ticks = 1749892, total_time = 1.749892, duration = 1.749892e-07
+
+n = 13000,
+iterations = 10000000, ticks = 1881765, total_time = 1.881765, duration = 1.881765e-07
+
+n = 14000,
+iterations = 10000000, ticks = 1919038, total_time = 1.919038, duration = 1.919038e-07
+
+n = 15000,
+iterations = 10000000, ticks = 2034702, total_time = 2.034702, duration = 2.034702e-07
+
+n = 16000,
+iterations = 10000000, ticks = 1826272, total_time = 1.826272, duration = 1.826272e-07
+
+n = 17000,
+iterations = 10000000, ticks = 2117948, total_time = 2.117948, duration = 2.117948e-07
+
+n = 18000,
+iterations = 10000000, ticks = 2280033, total_time = 2.280033, duration = 2.280033e-07
+
+n = 19000,
+iterations = 10000000, ticks = 2039479, total_time = 2.039479, duration = 2.039479e-07
+
+n = 20000,
+iterations = 10000000, ticks = 2039313, total_time = 2.039313, duration = 2.039313e-07
+
+n = 21000,
+iterations = 10000000, ticks = 2029094, total_time = 2.029094, duration = 2.029094e-07
+
+n = 22000,
+iterations = 10000000, ticks = 2138994, total_time = 2.138994, duration = 2.138994e-07
+
+n = 23000,
+iterations = 10000000, ticks = 2028707, total_time = 2.028707, duration = 2.028707e-07
+
+n = 24000,
+iterations = 10000000, ticks = 1844630, total_time = 1.844630, duration = 1.844630e-07
+
+n = 25000,
+iterations = 10000000, ticks = 2107184, total_time = 2.107184, duration = 2.107184e-07
+
+n = 26000,
+iterations = 10000000, ticks = 2151670, total_time = 2.151670, duration = 2.151670e-07
+
+n = 27000,
+iterations = 10000000, ticks = 2293255, total_time = 2.293255, duration = 2.293255e-07
+
+n = 28000,
+iterations = 10000000, ticks = 2025333, total_time = 2.025333, duration = 2.025333e-07
+
+n = 29000,
+iterations = 10000000, ticks = 1983153, total_time = 1.983153, duration = 1.983153e-07
+
+n = 30000,
+iterations = 10000000, ticks = 2321747, total_time = 2.321747, duration = 2.321747e-07
+
+n = 31000,
+iterations = 10000000, ticks = 2028305, total_time = 2.028305, duration = 2.028305e-07
+
+n = 32000,
+iterations = 10000000, ticks = 1935136, total_time = 1.935136, duration = 1.935136e-07
+
+n = 33000,
+iterations = 10000000, ticks = 2107474, total_time = 2.107474, duration = 2.107474e-07
+
+n = 34000,
+iterations = 10000000, ticks = 2288946, total_time = 2.288946, duration = 2.288946e-07
+
+n = 35000,
+iterations = 10000000, ticks = 2251029, total_time = 2.251029, duration = 2.251029e-07
+
+n = 36000,
+iterations = 10000000, ticks = 2499700, total_time = 2.499700, duration = 2.499700e-07
+
+n = 37000,
+iterations = 10000000, ticks = 2172892, total_time = 2.172892, duration = 2.172892e-07
+
+n = 38000,
+iterations = 10000000, ticks = 2163779, total_time = 2.163779, duration = 2.163779e-07
+
+n = 39000,
+iterations = 10000000, ticks = 2255923, total_time = 2.255923, duration = 2.255923e-07
+
+n = 40000,
+iterations = 10000000, ticks = 2145506, total_time = 2.145506, duration = 2.145506e-07
+
+n = 41000,
+iterations = 10000000, ticks = 2133877, total_time = 2.133877, duration = 2.133877e-07
+
+n = 42000,
+iterations = 10000000, ticks = 2064482, total_time = 2.064482, duration = 2.064482e-07
+
+n = 43000,
+iterations = 10000000, ticks = 2179757, total_time = 2.179757, duration = 2.179757e-07
+
+n = 44000,
+iterations = 10000000, ticks = 2307376, total_time = 2.307376, duration = 2.307376e-07
+
+n = 45000,
+iterations = 10000000, ticks = 2224376, total_time = 2.224376, duration = 2.224376e-07
+
+n = 46000,
+iterations = 10000000, ticks = 2356779, total_time = 2.356779, duration = 2.356779e-07
+
+n = 47000,
+iterations = 10000000, ticks = 2231845, total_time = 2.231845, duration = 2.231845e-07
+
+n = 48000,
+iterations = 10000000, ticks = 1948469, total_time = 1.948469, duration = 1.948469e-07
+
+n = 49000,
+iterations = 10000000, ticks = 2486151, total_time = 2.486151, duration = 2.486151e-07
+
+n = 50000,
+iterations = 10000000, ticks = 2262153, total_time = 2.262153, duration = 2.262153e-07
+
+n = 51000,
+iterations = 10000000, ticks = 2024272, total_time = 2.024272, duration = 2.024272e-07
+
+n = 52000,
+iterations = 10000000, ticks = 2435270, total_time = 2.435270, duration = 2.435270e-07
+
+n = 53000,
+iterations = 10000000, ticks = 2537691, total_time = 2.537691, duration = 2.537691e-07
+
+n = 54000,
+iterations = 10000000, ticks = 2587342, total_time = 2.587342, duration = 2.587342e-07
+
+n = 55000,
+iterations = 10000000, ticks = 2133209, total_time = 2.133209, duration = 2.133209e-07
+
+n = 56000,
+iterations = 10000000, ticks = 2155760, total_time = 2.155760, duration = 2.155760e-07
+
+n = 57000,
+iterations = 10000000, ticks = 2316775, total_time = 2.316775, duration = 2.316775e-07
+
+n = 58000,
+iterations = 10000000, ticks = 2376319, total_time = 2.376319, duration = 2.376319e-07
+
+n = 59000,
+iterations = 10000000, ticks = 2214654, total_time = 2.214654, duration = 2.214654e-07
+
+n = 60000,
+iterations = 10000000, ticks = 2557954, total_time = 2.557954, duration = 2.557954e-07
+
+n = 61000,
+iterations = 10000000, ticks = 1973735, total_time = 1.973735, duration = 1.973735e-07
+
+n = 62000,
+iterations = 10000000, ticks = 2429638, total_time = 2.429638, duration = 2.429638e-07
+
+n = 63000,
+iterations = 10000000, ticks = 2368969, total_time = 2.368969, duration = 2.368969e-07
+
+n = 64000,
+iterations = 10000000, ticks = 2083714, total_time = 2.083714, duration = 2.083714e-07
+
+n = 65000,
+iterations = 10000000, ticks = 2282048, total_time = 2.282048, duration = 2.282048e-07
+
+n = 66000,
+iterations = 10000000, ticks = 2299465, total_time = 2.299465, duration = 2.299465e-07
+
+n = 67000,
+iterations = 10000000, ticks = 2508946, total_time = 2.508946, duration = 2.508946e-07
+
+n = 68000,
+iterations = 10000000, ticks = 2424245, total_time = 2.424245, duration = 2.424245e-07
+
+n = 69000,
+iterations = 10000000, ticks = 2399288, total_time = 2.399288, duration = 2.399288e-07
+
+n = 70000,
+iterations = 10000000, ticks = 2460052, total_time = 2.460052, duration = 2.460052e-07
+
+n = 71000,
+iterations = 10000000, ticks = 2232410, total_time = 2.232410, duration = 2.232410e-07
+
+n = 72000,
+iterations = 10000000, ticks = 2597457, total_time = 2.597457, duration = 2.597457e-07
+
+n = 73000,
+iterations = 10000000, ticks = 2643313, total_time = 2.643313, duration = 2.643313e-07
+
+n = 74000,
+iterations = 10000000, ticks = 2199222, total_time = 2.199222, duration = 2.199222e-07
+
+n = 75000,
+iterations = 10000000, ticks = 2327187, total_time = 2.327187, duration = 2.327187e-07
+
+n = 76000,
+iterations = 10000000, ticks = 2365159, total_time = 2.365159, duration = 2.365159e-07
+
+n = 77000,
+iterations = 10000000, ticks = 2467356, total_time = 2.467356, duration = 2.467356e-07
+
+n = 78000,
+iterations = 10000000, ticks = 2388601, total_time = 2.388601, duration = 2.388601e-07
+
+n = 79000,
+iterations = 10000000, ticks = 2622142, total_time = 2.622142, duration = 2.622142e-07
+
+n = 80000,
+iterations = 10000000, ticks = 2350982, total_time = 2.350982, duration = 2.350982e-07
+
+n = 81000,
+iterations = 10000000, ticks = 2733276, total_time = 2.733276, duration = 2.733276e-07
+
+n = 82000,
+iterations = 10000000, ticks = 2331413, total_time = 2.331413, duration = 2.331413e-07
+
+n = 83000,
+iterations = 10000000, ticks = 2519053, total_time = 2.519053, duration = 2.519053e-07
+
+n = 84000,
+iterations = 10000000, ticks = 2322227, total_time = 2.322227, duration = 2.322227e-07
+
+n = 85000,
+iterations = 10000000, ticks = 2695222, total_time = 2.695222, duration = 2.695222e-07
+
+n = 86000,
+iterations = 10000000, ticks = 2536898, total_time = 2.536898, duration = 2.536898e-07
+
+n = 87000,
+iterations = 10000000, ticks = 2757696, total_time = 2.757696, duration = 2.757696e-07
+
+n = 88000,
+iterations = 10000000, ticks = 2493709, total_time = 2.493709, duration = 2.493709e-07
+
+n = 89000,
+iterations = 10000000, ticks = 2537976, total_time = 2.537976, duration = 2.537976e-07
+
+n = 90000,
+iterations = 10000000, ticks = 2695825, total_time = 2.695825, duration = 2.695825e-07
+
+n = 91000,
+iterations = 10000000, ticks = 2685914, total_time = 2.685914, duration = 2.685914e-07
+
+n = 92000,
+iterations = 10000000, ticks = 2684102, total_time = 2.684102, duration = 2.684102e-07
+
+n = 93000,
+iterations = 10000000, ticks = 2533115, total_time = 2.533115, duration = 2.533115e-07
+
+n = 94000,
+iterations = 10000000, ticks = 2539958, total_time = 2.539958, duration = 2.539958e-07
+
+n = 95000,
+iterations = 10000000, ticks = 2352555, total_time = 2.352555, duration = 2.352555e-07
+
+n = 96000,
+iterations = 10000000, ticks = 2196967, total_time = 2.196967, duration = 2.196967e-07
+
+n = 97000,
+iterations = 10000000, ticks = 2554215, total_time = 2.554215, duration = 2.554215e-07
+
+n = 98000,
+iterations = 10000000, ticks = 2642337, total_time = 2.642337, duration = 2.642337e-07
+
+n = 99000,
+iterations = 10000000, ticks = 2358730, total_time = 2.358730, duration = 2.358730e-07
+
+n = 100000,
+iterations = 10000000, ticks = 2410602, total_time = 2.410602, duration = 2.410602e-07
+
+
+
+algo_2_iterative : 
+n = 1000,
+iterations = 10000000, ticks = 592179, total_time = 0.592179, duration = 5.921790e-08
+
+n = 2000,
+iterations = 10000000, ticks = 642701, total_time = 0.642701, duration = 6.427010e-08
+
+n = 3000,
+iterations = 10000000, ticks = 778822, total_time = 0.778822, duration = 7.788220e-08
+
+n = 4000,
+iterations = 10000000, ticks = 687146, total_time = 0.687146, duration = 6.871460e-08
+
+n = 5000,
+iterations = 10000000, ticks = 987389, total_time = 0.987389, duration = 9.873890e-08
+
+n = 6000,
+iterations = 10000000, ticks = 828573, total_time = 0.828573, duration = 8.285730e-08
+
+n = 7000,
+iterations = 10000000, ticks = 886132, total_time = 0.886132, duration = 8.861320e-08
+
+n = 8000,
+iterations = 10000000, ticks = 733184, total_time = 0.733184, duration = 7.331840e-08
+
+n = 9000,
+iterations = 10000000, ticks = 975970, total_time = 0.975970, duration = 9.759700e-08
+
+n = 10000,
+iterations = 10000000, ticks = 1070237, total_time = 1.070237, duration = 1.070237e-07
+
+n = 11000,
+iterations = 10000000, ticks = 881318, total_time = 0.881318, duration = 8.813180e-08
+
+n = 12000,
+iterations = 10000000, ticks = 874195, total_time = 0.874195, duration = 8.741950e-08
+
+n = 13000,
+iterations = 10000000, ticks = 995316, total_time = 0.995316, duration = 9.953160e-08
+
+n = 14000,
+iterations = 10000000, ticks = 961972, total_time = 0.961972, duration = 9.619720e-08
+
+n = 15000,
+iterations = 10000000, ticks = 938431, total_time = 0.938431, duration = 9.384310e-08
+
+n = 16000,
+iterations = 10000000, ticks = 782362, total_time = 0.782362, duration = 7.823620e-08
+
+n = 17000,
+iterations = 10000000, ticks = 1031922, total_time = 1.031922, duration = 1.031922e-07
+
+n = 18000,
+iterations = 10000000, ticks = 1181176, total_time = 1.181176, duration = 1.181176e-07
+
+n = 19000,
+iterations = 10000000, ticks = 1160412, total_time = 1.160412, duration = 1.160412e-07
+
+n = 20000,
+iterations = 10000000, ticks = 1169363, total_time = 1.169363, duration = 1.169363e-07
+
+n = 21000,
+iterations = 10000000, ticks = 1136108, total_time = 1.136108, duration = 1.136108e-07
+
+n = 22000,
+iterations = 10000000, ticks = 932979, total_time = 0.932979, duration = 9.329790e-08
+
+n = 23000,
+iterations = 10000000, ticks = 990848, total_time = 0.990848, duration = 9.908480e-08
+
+n = 24000,
+iterations = 10000000, ticks = 938675, total_time = 0.938675, duration = 9.386750e-08
+
+n = 25000,
+iterations = 10000000, ticks = 1158684, total_time = 1.158684, duration = 1.158684e-07
+
+n = 26000,
+iterations = 10000000, ticks = 1071019, total_time = 1.071019, duration = 1.071019e-07
+
+n = 27000,
+iterations = 10000000, ticks = 988518, total_time = 0.988518, duration = 9.885180e-08
+
+n = 28000,
+iterations = 10000000, ticks = 1008268, total_time = 1.008268, duration = 1.008268e-07
+
+n = 29000,
+iterations = 10000000, ticks = 1211126, total_time = 1.211126, duration = 1.211126e-07
+
+n = 30000,
+iterations = 10000000, ticks = 983525, total_time = 0.983525, duration = 9.835250e-08
+
+n = 31000,
+iterations = 10000000, ticks = 993027, total_time = 0.993027, duration = 9.930270e-08
+
+n = 32000,
+iterations = 10000000, ticks = 890652, total_time = 0.890652, duration = 8.906520e-08
+
+n = 33000,
+iterations = 10000000, ticks = 1092989, total_time = 1.092989, duration = 1.092989e-07
+
+n = 34000,
+iterations = 10000000, ticks = 1096534, total_time = 1.096534, duration = 1.096534e-07
+
+n = 35000,
+iterations = 10000000, ticks = 961537, total_time = 0.961537, duration = 9.615370e-08
+
+n = 36000,
+iterations = 10000000, ticks = 1210964, total_time = 1.210964, duration = 1.210964e-07
+
+n = 37000,
+iterations = 10000000, ticks = 1126508, total_time = 1.126508, duration = 1.126508e-07
+
+n = 38000,
+iterations = 10000000, ticks = 1267663, total_time = 1.267663, duration = 1.267663e-07
+
+n = 39000,
+iterations = 10000000, ticks = 1253426, total_time = 1.253426, duration = 1.253426e-07
+
+n = 40000,
+iterations = 10000000, ticks = 1200910, total_time = 1.200910, duration = 1.200910e-07
+
+n = 41000,
+iterations = 10000000, ticks = 1077078, total_time = 1.077078, duration = 1.077078e-07
+
+n = 42000,
+iterations = 10000000, ticks = 1179935, total_time = 1.179935, duration = 1.179935e-07
+
+n = 43000,
+iterations = 10000000, ticks = 986614, total_time = 0.986614, duration = 9.866140e-08
+
+n = 44000,
+iterations = 10000000, ticks = 987431, total_time = 0.987431, duration = 9.874310e-08
+
+n = 45000,
+iterations = 10000000, ticks = 1035306, total_time = 1.035306, duration = 1.035306e-07
+
+n = 46000,
+iterations = 10000000, ticks = 1094059, total_time = 1.094059, duration = 1.094059e-07
+
+n = 47000,
+iterations = 10000000, ticks = 1031534, total_time = 1.031534, duration = 1.031534e-07
+
+n = 48000,
+iterations = 10000000, ticks = 1041416, total_time = 1.041416, duration = 1.041416e-07
+
+n = 49000,
+iterations = 10000000, ticks = 994697, total_time = 0.994697, duration = 9.946970e-08
+
+n = 50000,
+iterations = 10000000, ticks = 1219679, total_time = 1.219679, duration = 1.219679e-07
+
+n = 51000,
+iterations = 10000000, ticks = 1028699, total_time = 1.028699, duration = 1.028699e-07
+
+n = 52000,
+iterations = 10000000, ticks = 1164074, total_time = 1.164074, duration = 1.164074e-07
+
+n = 53000,
+iterations = 10000000, ticks = 1093363, total_time = 1.093363, duration = 1.093363e-07
+
+n = 54000,
+iterations = 10000000, ticks = 1024784, total_time = 1.024784, duration = 1.024784e-07
+
+n = 55000,
+iterations = 10000000, ticks = 1115696, total_time = 1.115696, duration = 1.115696e-07
+
+n = 56000,
+iterations = 10000000, ticks = 1020528, total_time = 1.020528, duration = 1.020528e-07
+
+n = 57000,
+iterations = 10000000, ticks = 1122461, total_time = 1.122461, duration = 1.122461e-07
+
+n = 58000,
+iterations = 10000000, ticks = 1209576, total_time = 1.209576, duration = 1.209576e-07
+
+n = 59000,
+iterations = 10000000, ticks = 959780, total_time = 0.959780, duration = 9.597800e-08
+
+n = 60000,
+iterations = 10000000, ticks = 1004945, total_time = 1.004945, duration = 1.004945e-07
+
+n = 61000,
+iterations = 10000000, ticks = 1030424, total_time = 1.030424, duration = 1.030424e-07
+
+n = 62000,
+iterations = 10000000, ticks = 1075070, total_time = 1.075070, duration = 1.075070e-07
+
+n = 63000,
+iterations = 10000000, ticks = 970047, total_time = 0.970047, duration = 9.700470e-08
+
+n = 64000,
+iterations = 10000000, ticks = 1066249, total_time = 1.066249, duration = 1.066249e-07
+
+n = 65000,
+iterations = 10000000, ticks = 937387, total_time = 0.937387, duration = 9.373870e-08
+
+n = 66000,
+iterations = 10000000, ticks = 1143913, total_time = 1.143913, duration = 1.143913e-07
+
+n = 67000,
+iterations = 10000000, ticks = 1196727, total_time = 1.196727, duration = 1.196727e-07
+
+n = 68000,
+iterations = 10000000, ticks = 1125459, total_time = 1.125459, duration = 1.125459e-07
+
+n = 69000,
+iterations = 10000000, ticks = 1268320, total_time = 1.268320, duration = 1.268320e-07
+
+n = 70000,
+iterations = 10000000, ticks = 1202544, total_time = 1.202544, duration = 1.202544e-07
+
+n = 71000,
+iterations = 10000000, ticks = 1330366, total_time = 1.330366, duration = 1.330366e-07
+
+n = 72000,
+iterations = 10000000, ticks = 1317388, total_time = 1.317388, duration = 1.317388e-07
+
+n = 73000,
+iterations = 10000000, ticks = 1362240, total_time = 1.362240, duration = 1.362240e-07
+
+n = 74000,
+iterations = 10000000, ticks = 1174184, total_time = 1.174184, duration = 1.174184e-07
+
+n = 75000,
+iterations = 10000000, ticks = 1184014, total_time = 1.184014, duration = 1.184014e-07
+
+n = 76000,
+iterations = 10000000, ticks = 1227058, total_time = 1.227058, duration = 1.227058e-07
+
+n = 77000,
+iterations = 10000000, ticks = 1241474, total_time = 1.241474, duration = 1.241474e-07
+
+n = 78000,
+iterations = 10000000, ticks = 1286343, total_time = 1.286343, duration = 1.286343e-07
+
+n = 79000,
+iterations = 10000000, ticks = 1246251, total_time = 1.246251, duration = 1.246251e-07
+
+n = 80000,
+iterations = 10000000, ticks = 1308956, total_time = 1.308956, duration = 1.308956e-07
+
+n = 81000,
+iterations = 10000000, ticks = 1277951, total_time = 1.277951, duration = 1.277951e-07
+
+n = 82000,
+iterations = 10000000, ticks = 1106090, total_time = 1.106090, duration = 1.106090e-07
+
+n = 83000,
+iterations = 10000000, ticks = 1278171, total_time = 1.278171, duration = 1.278171e-07
+
+n = 84000,
+iterations = 10000000, ticks = 1135679, total_time = 1.135679, duration = 1.135679e-07
+
+n = 85000,
+iterations = 10000000, ticks = 1360568, total_time = 1.360568, duration = 1.360568e-07
+
+n = 86000,
+iterations = 10000000, ticks = 1035965, total_time = 1.035965, duration = 1.035965e-07
+
+n = 87000,
+iterations = 10000000, ticks = 1140199, total_time = 1.140199, duration = 1.140199e-07
+
+n = 88000,
+iterations = 10000000, ticks = 1021653, total_time = 1.021653, duration = 1.021653e-07
+
+n = 89000,
+iterations = 10000000, ticks = 1268588, total_time = 1.268588, duration = 1.268588e-07
+
+n = 90000,
+iterations = 10000000, ticks = 1051784, total_time = 1.051784, duration = 1.051784e-07
+
+n = 91000,
+iterations = 10000000, ticks = 1137304, total_time = 1.137304, duration = 1.137304e-07
+
+n = 92000,
+iterations = 10000000, ticks = 1223773, total_time = 1.223773, duration = 1.223773e-07
+
+n = 93000,
+iterations = 10000000, ticks = 1207158, total_time = 1.207158, duration = 1.207158e-07
+
+n = 94000,
+iterations = 10000000, ticks = 1079116, total_time = 1.079116, duration = 1.079116e-07
+
+n = 95000,
+iterations = 10000000, ticks = 1218456, total_time = 1.218456, duration = 1.218456e-07
+
+n = 96000,
+iterations = 10000000, ticks = 1149716, total_time = 1.149716, duration = 1.149716e-07
+
+n = 97000,
+iterations = 10000000, ticks = 1126854, total_time = 1.126854, duration = 1.126854e-07
+
+n = 98000,
+iterations = 10000000, ticks = 1072002, total_time = 1.072002, duration = 1.072002e-07
+
+n = 99000,
+iterations = 10000000, ticks = 1189538, total_time = 1.189538, duration = 1.189538e-07
+
+n = 100000,
+iterations = 10000000, ticks = 1343226, total_time = 1.343226, duration = 1.343226e-07
+
+
+

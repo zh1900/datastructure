@@ -1,0 +1,79 @@
+\documentclass[12pt,a4paper]{report}
+
+
+\usepackage[top=1in, bottom=1in, left=1.25in, right=1.25in]{geometry}
+\usepackage{graphicx}
+\usepackage{indentfirst}
+\usepackage{float}
+\usepackage{xeCJK}
+\usepackage{algorithm}
+\usepackage{algorithmicx}
+\usepackage{algpseudocode}
+\usepackage{listings}
+\usepackage{color}
+\usepackage{tikz}
+\usepackage{fancyhdr}
+\usepackage{amsmath,amssymb,amsthm}
+\usepackage[toc,page]{appendix}
+
+\definecolor{mygreen}{rgb}{0,0.6,0}
+\definecolor{mygray}{rgb}{0.5,0.5,0.5}
+\definecolor{mymauve}{rgb}{0.58,0,0.82}
+
+\lstset{
+	language=C++,
+	numbers=left,
+	breaklines=true,
+	basicstyle=\scriptsize,
+	commentstyle=\color{mygreen},
+	keywordstyle=\color{blue},
+	numberstyle=\color{mygray},
+	rulecolor=\color{black},
+	stringstyle=\color{mymauve}
+}
+
+\pagestyle{fancy}
+\lhead{\leftmark}
+\rhead{Public Bike Management}
+\renewcommand{\headrulewidth}{0.5pt}
+
+\title{
+	\includegraphics[scale=1.5]{zju_1.pdf}\\~\\
+	\includegraphics[scale=1]{zju_2.pdf}\\
+	~\\
+	\Huge{Public Bike Management}\\
+	\large{Fundamentals of Data Structures\\Laboratory Projects 2}
+}
+\author{
+	Zeng Tian\\
+	曾天\\
+	3140105095
+	\and
+	Meng Zhanhao\\
+	孟展豪\\
+	3150104510
+	\and
+	Chen Hanyi\\
+	陈翰逸\\
+	3160100052
+}
+
+\begin{document}
+	\maketitle
+	\tableofcontents
+	\input{introduction}
+	\input{algorithm_specification}
+	\input{testing_results}
+	\input{analysis_and_comments}
+	\begin{appendices}
+		\input{source_code}
+		\chapter{Declaration and Duty Assignments}
+		\section*{Declaration}
+		\textit{We hereby declare that all the work done in this project titled "Public Bike Management" is of our independent effort as a group.}
+		\section*{Duty Assignments}
+		\noindent
+		Programmer: Chen Hanyi\\
+		Tester: Meng Zhanhao\\
+		Report Writer: Zeng Tian
+	\end{appendices}
+\end{document}

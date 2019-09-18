@@ -1,0 +1,27 @@
+algo_1 : 
+n = 1000
+iterations = 1000000, ticks = 4896065, total_time = 4.896065, duration = 4.896065e-06
+
+n = 5000
+iterations = 200000, ticks = 4917766, total_time = 4.917766, duration = 2.458883e-05
+
+n = 10000
+iterations = 100000, ticks = 4896786, total_time = 4.896786, duration = 4.896786e-05
+
+n = 20000
+iterations = 50000, ticks = 4812429, total_time = 4.812429, duration = 9.624858e-05
+
+n = 40000
+iterations = 25000, ticks = 4823615, total_time = 4.823615, duration = 1.929446e-04
+
+n = 60000
+iterations = 16666, ticks = 4827711, total_time = 4.827711, duration = 2.896742e-04
+
+n = 80000
+iterations = 12500, ticks = 4826477, total_time = 4.826477, duration = 3.861182e-04
+
+n = 100000
+iterations = 10000, ticks = 4799912, total_time = 4.799912, duration = 4.799912e-04
+
+
+

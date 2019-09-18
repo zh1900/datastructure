@@ -1,0 +1,19 @@
+\contentsline {chapter}{\numberline {1}Introduction}{2}
+\contentsline {chapter}{\numberline {2}Algorithm Specification}{3}
+\contentsline {section}{\numberline {2.1}the naive algorithm}{3}
+\contentsline {subsection}{\numberline {2.1.1}Specification}{3}
+\contentsline {subsection}{\numberline {2.1.2}Pseudo code}{4}
+\contentsline {section}{\numberline {2.2}Dijkstra's algorithm}{4}
+\contentsline {subsection}{\numberline {2.2.1}Specification}{4}
+\contentsline {subsection}{\numberline {2.2.2}Pseudo code}{4}
+\contentsline {chapter}{\numberline {3}Testing Results}{5}
+\contentsline {chapter}{\numberline {4}Analysis and Comments}{9}
+\contentsline {section}{\numberline {4.1}the naive algorithm}{9}
+\contentsline {subsection}{\numberline {4.1.1}Time complexity}{9}
+\contentsline {subsection}{\numberline {4.1.2}Space complexity}{9}
+\contentsline {section}{\numberline {4.2}Dijkstra's algorithm}{9}
+\contentsline {chapter}{Appendices}{10}
+\contentsline {chapter}{\numberline {A}Source Code (in C)}{11}
+\contentsline {section}{\numberline {A.1}the naive algorithm}{11}
+\contentsline {section}{\numberline {A.2}Dijkstra's algorithm}{15}
+\contentsline {chapter}{\numberline {B}Declaration and Duty Assignments}{21}

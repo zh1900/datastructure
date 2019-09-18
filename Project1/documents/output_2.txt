@@ -1,0 +1,54 @@
+algo_2_recursive : 
+n = 1000
+iterations = 10000000, ticks = 1502949, total_time = 1.502949, duration = 1.502949e-07
+
+n = 5000
+iterations = 10000000, ticks = 1858551, total_time = 1.858551, duration = 1.858551e-07
+
+n = 10000
+iterations = 10000000, ticks = 1932978, total_time = 1.932978, duration = 1.932978e-07
+
+n = 20000
+iterations = 10000000, ticks = 2104549, total_time = 2.104549, duration = 2.104549e-07
+
+n = 40000
+iterations = 10000000, ticks = 2228389, total_time = 2.228389, duration = 2.228389e-07
+
+n = 60000
+iterations = 10000000, ticks = 2674874, total_time = 2.674874, duration = 2.674874e-07
+
+n = 80000
+iterations = 10000000, ticks = 2384372, total_time = 2.384372, duration = 2.384372e-07
+
+n = 100000
+iterations = 10000000, ticks = 2543837, total_time = 2.543837, duration = 2.543837e-07
+
+
+
+algo_2_iterative : 
+n = 1000
+iterations = 10000000, ticks = 609220, total_time = 0.609220, duration = 6.092200e-08
+
+n = 5000
+iterations = 10000000, ticks = 1035374, total_time = 1.035374, duration = 1.035374e-07
+
+n = 10000
+iterations = 10000000, ticks = 1164042, total_time = 1.164042, duration = 1.164042e-07
+
+n = 20000
+iterations = 10000000, ticks = 1260366, total_time = 1.260366, duration = 1.260366e-07
+
+n = 40000
+iterations = 10000000, ticks = 1323494, total_time = 1.323494, duration = 1.323494e-07
+
+n = 60000
+iterations = 10000000, ticks = 1078078, total_time = 1.078078, duration = 1.078078e-07
+
+n = 80000
+iterations = 10000000, ticks = 1397193, total_time = 1.397193, duration = 1.397193e-07
+
+n = 100000
+iterations = 10000000, ticks = 1411758, total_time = 1.411758, duration = 1.411758e-07
+
+
+

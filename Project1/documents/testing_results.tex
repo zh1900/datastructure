@@ -1,0 +1,98 @@
+\chapter{Testing Results}
+
+\section{Algorithm 1}
+O(N) time
+\begin{table}[H]
+	\centering
+	\caption{test result of the Algorithm 1}
+	\begin{tabular}{|r|r|r|r|r|}
+		\hline
+		\multicolumn{1}{|c|}{N} &
+		\multicolumn{1}{|c|}{Iterations (K)} &
+		\multicolumn{1}{|c|}{Ticks} &
+		\multicolumn{1}{|c|}{Total Time (sec)} &
+		\multicolumn{1}{|c|}{Duration (sec)} \\
+		\hline
+		1000 & 1000000 & 4896065 & 4.896065 & $4.896065 \times 10 ^ {-6}$ \\
+		\hline
+		5000 & 200000 & 4917766 & 4.917766 & $2.458883 \times 10 ^ {-5}$ \\
+		\hline
+		10000 & 100000 & 4896786 & 4.896786 & $4.896786 \times 10 ^ {-5}$ \\
+		\hline
+		20000 & 50000 & 4812429 & 4.812429 & $9.624858 \times 10 ^ {-5}$ \\
+		\hline
+		40000 & 25000 & 4823615 & 4.823615 & $1.929446 \times 10 ^ {-4}$ \\
+		\hline
+		60000 & 16666 & 4827711 & 4.827711 & $2.896742 \times 10 ^ {-4}$ \\
+		\hline
+		80000 & 12500 & 4826477 & 4.826477 & $3.861182 \times 10 ^ {-4}$ \\
+		\hline
+		100000 & 10000 & 4799912 & 4.799912 & $4.799912 \times 10 ^ {-4}$ \\
+		\hline
+	\end{tabular}
+\end{table}
+
+
+\section{Algorithm 2 (recursive version)}
+O(logN) time
+\begin{table}[H]
+	\centering
+	\caption{test result of the Algorithm 2 (recursive version)}
+	\begin{tabular}{|r|r|r|r|r|}
+		\hline
+		\multicolumn{1}{|c|}{N} &
+		\multicolumn{1}{|c|}{Iterations (K)} &
+		\multicolumn{1}{|c|}{Ticks} &
+		\multicolumn{1}{|c|}{Total Time (sec)} &
+		\multicolumn{1}{|c|}{Duration (sec)} \\
+		\hline
+		1000 & 10000000 & 1502949 & 1.502949 & $1.502949 \times 10 ^ {-7}$ \\
+		\hline
+		5000 & 10000000 & 1858551 & 1.858551 & $1.858551 \times 10 ^ {-7}$ \\
+		\hline
+		10000 & 10000000 & 1932978 & 1.932978 & $1.932978 \times 10 ^ {-7}$ \\
+		\hline
+		20000 & 10000000 & 2104549 & 2.104549 & $2.104549 \times 10 ^ {-7}$ \\
+		\hline
+		40000 & 10000000 & 2228389 & 2.228389 & $2.228389 \times 10 ^ {-7}$ \\
+		\hline
+		60000 & 10000000 & 2674874 & 2.674874 & $2.674874 \times 10 ^ {-7}$ \\
+		\hline
+		80000 & 10000000 & 2384372 & 2.384372 & $2.384372 \times 10 ^ {-7}$ \\
+		\hline
+		100000 & 10000000 & 2543837 & 2.543837 & $2.543837 \times 10 ^ {-7}$ \\
+		\hline
+	\end{tabular}
+\end{table}
+
+\section{Algorithm 2 (iterative version)}
+O(logN) time
+\begin{table}[H]
+	\centering
+	\caption{test result of the Algorithm 2 (iterative version)}
+	\begin{tabular}{|r|r|r|r|r|}
+		\hline
+		\multicolumn{1}{|c|}{N} &
+		\multicolumn{1}{|c|}{Iterations (K)} &
+		\multicolumn{1}{|c|}{Ticks} &
+		\multicolumn{1}{|c|}{Total Time (sec)} &
+		\multicolumn{1}{|c|}{Duration (sec)} \\
+		\hline
+		1000 & 10000000 & 609220 & 0.609220 & $6.092200 \times 10 ^ {-8}$ \\
+		\hline
+		5000 & 10000000 & 1035374 & 1.035374 & $1.035374 \times 10 ^ {-7}$ \\
+		\hline
+		10000 & 10000000 & 1164042 & 1.164042 & $1.164042 \times 10 ^ {-7}$ \\
+		\hline
+		20000 & 10000000 & 1260366 & 1.260366 & $1.260366 \times 10 ^ {-7}$ \\
+		\hline
+		40000 & 10000000 & 1323494 & 1.323494 & $1.323494 \times 10 ^ {-7}$ \\
+		\hline
+		60000 & 10000000 & 1078078 & 1.078078 & $1.078078 \times 10 ^ {-7}$ \\
+		\hline
+		80000 & 10000000 & 1397193 & 1.397193 & $1.397193 \times 10 ^ {-7}$ \\
+		\hline
+		100000 & 10000000 & 1411758 & 1.411758 & $1.411758 \times 10 ^ {-7}$ \\
+		\hline
+	\end{tabular}
+\end{table}

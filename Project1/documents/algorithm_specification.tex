@@ -1,0 +1,48 @@
+\chapter{Algorithm Specification}
+
+Description (pseudo-code preferred) of all the algorithms involved for solving the problem, including specifications of main data structures.
+
+\section{Algorithm 1}
+
+\[
+X ^ N =
+\begin{cases}
+	0, & X = 0 \land N \neq 0\\
+	1, & X \neq 0 \land N = 0\\
+	X, & N = 1\\
+	(X ^ {\frac{N}{2}}) ^ 2, & N$ is an even number$\\
+	(X ^ {\frac{N - 1}{2}}) ^ 2 \times X, & N$ is an odd number$\\
+\end{cases}
+\]
+\begin{algorithm}[H]
+	\caption{ The algorithm 1 to calculate power}
+	\begin{algorithmic}[1]
+		\IF{some condition is true}
+		\STATE do some processing
+		\ELSIF{some other condition is true}
+		\STATE do some different processing
+		\ELSE
+		\STATE do the default actions
+		\ENDIF
+	\end{algorithmic}
+\end{algorithm}
+
+\section{Algorithm 2 recursive version}
+\section{Algorithm 2 iterative version}
+
+To calculate $X ^ N$, we first express the $N$ of $X ^ N$ in binary number system,
+\[
+X ^ {N_{(10)}} = X ^ {N_{(2)}} = X ^ {{{n_k}{n_{k-1}}{...}{n_2}{n_1}}_{(2)}}
+= X ^ {\sum_{i = 1}^{k} n_i \times 2 ^ i}
+= \prod_{i = 1}^{k} X ^ {n_i \times 2 ^ i}
+\]
+and then if we have the value of $X ^ {2 ^ i}(1 \leq i \leq k)$, we can calculate $X ^ N$ in $O(k)$ time.
+
+According to following equation, values of $X ^ 1, X ^ 2, X ^ 4, ..., X ^ {2 ^ {k - 1}}, X ^ {2 ^ k}$ could be get by multiplying $k - 1$ times.
+\[
+X ^ {2 ^ k} = (X ^ {2 ^ {k - 1}}) ^ 2
+\]
+
+Besides, $2 ^ k \leq N$, so $k \leq log_{2}N$.
+
+Finally, we get an algorithm which can calculate $X ^ N$ in $O(logN)$ time.

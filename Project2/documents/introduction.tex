@@ -1,0 +1,11 @@
+\chapter{Introduction}
+
+PBMC provides great convenience to the tourists to travel in Hangzhou. Our project is asked to find the shortest path to balance the number of bikes on each station. In order to solve this problem, we assume two algorithms.
+
+One use depth-first search to find all possible paths from starting vertex (PBMC) to destination vertex (problem station) of the graph. After we find them, the path of them, which is the shortest path, requires the least number of bikes sent from PBMC, and requires minimum number of bikes that we must take back to PBMC, is the solution to this problem. Another way is to calculate the shortest path by using Dijkstra algorithm. This report we mainly discuss the first algorithm.
+
+We first test the two kind of algorithm by some of the data is random survival of the stations. Then we test the algorithm for some special N (the number of stations)= 9, 16, 25, 36, 49, 64, 81, 100 to test whether the problem is resolved and measure running time. And the capacity of each site is also randomly generated. After that we draw the output data into tables so that we analyze the relationship between N and running time.
+
+In this project we also us C’s standard library time.h by class to measure the running time of algorithm.
+
+Finally, through the analysis of program data, we can really solve the problem. And we find that the time complexity of algorithms is O(path)  and O(length of path).

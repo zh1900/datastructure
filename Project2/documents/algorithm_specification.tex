@@ -1,0 +1,92 @@
+\chapter{Algorithm Specification}
+
+首先將此問題以數學語言表達\\
+
+一張圖$G$\\
+$n$點分bei有權重$V_i$ = number of bikes on the station $i$\\
+$m$條邊分bei有權重$E_A$ = 邊$A$連接兩個點$i, j$則$E_A = i$走到$j$所需時間\\
+
+則問題變wei\\
+
+求$G$的最短路$P$~~若$P$有多條\\
+對於一條$P_i$中$V_1, V_2, ..., V_k$\\
+定義一種運算規則\\
+(MaximumCapacity 簡稱MC)\\
+1.若$V_i \leq (MC / 2)$
+\[sent_i =
+\begin{cases}
+	[(MC / 2) - V_i] - back_{i - 1}, 
+	& if [(MC / 2) - V_i] \geq back_{i - 1}\\
+	0
+\end{cases}
+\]
+\[back_i =
+\begin{cases}
+	back_{i - 1} - [(MC / 2) - V_i], 
+	& if [(MC / 2) - V_i] \leq back_{i - 1}\\
+	0
+\end{cases}
+\]	
+2.若$V_i \geq (MC / 2)$
+\[sent_i = 0\]
+\[back_i = back_{i - 1} + [(MC / 2) - V_i]\]
+\\
+則本題的答案wei$P$中的$V_k$\\
+滿足\\
+$sent_k < sent_i$\\
+或$sent_k \leq sent_i$且$back_k < back_i$\\
+
+
+
+
+\section{the naive algorithm}
+
+\subsection{Specification}
+
+There is a naive way to deal with this problem. We can simply use depth-first search to find all possible paths from starting vertex (PBMC) to destination vertex (problem station) of the graph. After we find them, the path of them, which is the shortest path, requires the
+least number of bikes sent from PBMC, and requires minimum
+number of bikes that we must take back to PBMC, is the solution to this problem.
+
+\subsection{Pseudo code}
+
+\begin{algorithm}[H]
+	\label{algo-naive}
+	\caption{The naive algorithm}
+	\begin{algorithmic}[1]
+		\Function {DFS}{$G, v$}
+			\State set vertex $v$ as visited.
+			\State $result := \varnothing$
+			\For {each vertex $u$ connected to $v$}
+				\If {$u$ has not been visited}
+					\State $r := $\Call{DFS}{$G, u$}
+				\EndIf 
+				\If {$r$ is better than result}
+				    \State $result := r$
+				\EndIf
+			\EndFor
+			\State set vertex $v$ as not visited.
+			\State \Return $power$
+		\EndFunction
+	\end{algorithmic}
+\end{algorithm}
+
+\section{Dijkstra's algorithm}
+
+\subsection{Specification}
+
+Obviously, the problem could be divided into two sub-problems.
+\begin{enumerate}
+  \item Find the shortest path $P_i$ in the graph.
+  \item $P_i$中的$V_k$滿足\\
+		$sent_k < sent_i$\\
+		或$sent_k \leq sent_i$且$back_k < back_i$\\
+\end{enumerate}
+
+而最短路可以用Dijkstra算法在$O(N^2)$的時間找出\\
+圖$G$中的所有到problem-station的最短路形成的集合$G'$是一個DAG\\
+接著只要在DAG~~$G'$中找到滿足上列第二個條件的一條路就是答案了\\
+
+
+\subsection{Pseudo code}
+
+"這裡我會寫好"\\
